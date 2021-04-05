@@ -1,0 +1,7 @@
+C:\Users\DEV\source\repos\SharpIEDCOM\SharpIEDCOM\obj\Release\SharpIEDCOM.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\SharpIEDCOM\SharpIEDCOM\bin\Release\SharpIEDCOM.exe.config
+C:\Users\DEV\source\repos\SharpIEDCOM\SharpIEDCOM\bin\Release\SharpIEDCOM.exe
+C:\Users\DEV\source\repos\SharpIEDCOM\SharpIEDCOM\bin\Release\SharpIEDCOM.pdb
+C:\Users\DEV\source\repos\SharpIEDCOM\SharpIEDCOM\obj\Release\SharpIEDCOM.exe
+C:\Users\DEV\source\repos\SharpIEDCOM\SharpIEDCOM\obj\Release\SharpIEDCOM.pdb
+C:\Users\DEV\source\repos\SharpIEDCOM\SharpIEDCOM\obj\Release\SharpIEDCOM.csprojAssemblyReference.cache
